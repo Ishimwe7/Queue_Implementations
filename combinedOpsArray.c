@@ -50,7 +50,6 @@ void dequeue(){
      counts--;
      display();
     }
-
 }
 
 void display(){
